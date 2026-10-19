@@ -36,7 +36,7 @@ Communities focused on mentoring and skill sharing in software testing
 
 📫 How to reach me:
 ---
-📧 Email: [marinkiepilusa@example.com]
+📧 Email: [marinkiepilusa@gmail.com]
 
 💼 LinkedIn: [https://www.linkedin.com/in/marinkiepilusa/]
 
